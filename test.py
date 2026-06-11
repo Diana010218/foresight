@@ -1,1 +1,1 @@
-print("Hello Diana Syafinaz & I'm from VSG Labs")
+print ("This is foresight project")
